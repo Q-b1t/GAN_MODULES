@@ -1,0 +1,2 @@
+# G.A.N Modules
+These are code modules used in my G.A.N experiments. These code is here for it to be pulled when the models are deployed. At the moment, the code is in testing stage (I am currently checking for errors), and will be deployed once all the experiments on different architectures are complete. 
